@@ -1,0 +1,2 @@
+# Realtime-Facemask-Detection-Solution
+Project Name: Real time Facemask Detection Solution:: In Current situation it is very important to wear a mask in Public Places. To enforce and check if the person has worn mask it is difficult to check manually. Face Mask Detection system built using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams, this helps to check people without mask to enter any public place or shop.
